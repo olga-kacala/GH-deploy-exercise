@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GH-deploy-exercise/static/css/main.073c9b0a.css",
+    "main.js": "/GH-deploy-exercise/static/js/main.9dddf900.js",
+    "static/js/787.28cb0dcd.chunk.js": "/GH-deploy-exercise/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/GH-deploy-exercise/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/GH-deploy-exercise/index.html",
+    "main.073c9b0a.css.map": "/GH-deploy-exercise/static/css/main.073c9b0a.css.map",
+    "main.9dddf900.js.map": "/GH-deploy-exercise/static/js/main.9dddf900.js.map",
+    "787.28cb0dcd.chunk.js.map": "/GH-deploy-exercise/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9dddf900.js"
+  ]
+}
